@@ -11,6 +11,6 @@
     <orderEntry type="library" name="gson-2.8.5" level="project" />
     <orderEntry type="library" name="retrofit-2.6.0" level="application" />
     <orderEntry type="library" name="okhttp-4.0.0-RC1" level="application" />
-    <orderEntry type="library" name="GsonConverterFactory" level="application" />
+    <orderEntry type="library" name="okio-2.2.2" level="application" />
   </component>
 </module>
